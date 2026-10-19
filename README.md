@@ -204,6 +204,7 @@ A curated list of awesome Python frameworks, libraries and software.
 * [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 * [evhub/coconut](https://github.com/evhub/coconut) - Simple, elegant, Pythonic functional programming.
 * [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
+* [axiomantic/headerkit](https://github.com/axiomantic/headerkit) - C/C++ header analysis toolkit with pluggable backends and writers for ctypes, Cython, CFFI, and foreign bindings.
 * [colesbury/nogil](https://github.com/colesbury/nogil) - Multithreaded Python without the GIL *(archived)*
 * [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc *(archived)*
 
